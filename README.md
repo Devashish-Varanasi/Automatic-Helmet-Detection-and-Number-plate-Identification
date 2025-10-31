@@ -19,7 +19,7 @@ Traffic accidents due to helmet non-compliance are a growing concern, making man
 ## 📌 Installation & Setup
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/jaswanthkondeti/Automatic-Helmet-Detection-and-Number-plate-Identification.git
+git clone https://github.com/Devashish-Varanasi/Automatic-Helmet-Detection-and-Number-plate-Identification.git
 cd Automatic-Helmet-Detection-and-Number-plate-Identification
 ```
 
